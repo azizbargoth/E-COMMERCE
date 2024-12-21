@@ -1,8 +1,17 @@
 {
   "name": "commerce1",
   "version": "0.1.0",
+<<<<<<< HEAD
   "private": true,
   "homepage": "https://azizbargoth.github.io",
+=======
+  "private": true,"homepage": "https://azizbargoth.github.io/E-COMMERCE",
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
+
+>>>>>>> 6a48f44cbc6ed929f97f701a1320cbedbda17d33
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.7.1",
     "@fortawesome/free-solid-svg-icons": "^6.7.1",
