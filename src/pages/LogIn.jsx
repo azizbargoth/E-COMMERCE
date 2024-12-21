@@ -4,7 +4,7 @@ import { Col,Row } from "react-bootstrap";
 import { Link } from "react-router";
 const LoginPage=()=> {
   return (
-    <Container >
+    <Container>
       <h1 className="text-center">Login</h1>
       <hr />
       <Row className="my-4 h-300">

@@ -13,7 +13,7 @@ import { Link } from 'react-router';
 function NavScroll() {
   return (
     
-    <Navbar expand="lg" className=" bg-body-tertiary sticky-top py-4 fs-5">
+    <Navbar expand="lg" className="bg-secondary-subtle sticky-top py-4 fs-5">
       <div className='container-lg container-xl'>
 
       

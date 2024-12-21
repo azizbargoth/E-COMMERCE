@@ -7,6 +7,7 @@ import RegisterPage from "./pages/Register";
 import LoginPage from "./pages/LogIn";
 import Home from "./pages/Home";
 import ContactUsPage from "./pages/ContactPage";
+import Footer from "./components/footer";
 
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
             <Route path="/register" element={<RegisterPage />} />
         </Routes>
         </Container>
+        <Footer />
     </Router>
     
 
