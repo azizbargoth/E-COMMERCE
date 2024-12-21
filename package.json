@@ -1,10 +1,9 @@
 {
   "name": "commerce1",
   "version": "0.1.0",
-<<<<<<< HEAD
+
   "private": true,
-  "homepage": "https://azizbargoth.github.io",
-=======
+
   "private": true,"homepage": "https://azizbargoth.github.io/E-COMMERCE",
 "scripts": {
   "predeploy": "npm run build",
